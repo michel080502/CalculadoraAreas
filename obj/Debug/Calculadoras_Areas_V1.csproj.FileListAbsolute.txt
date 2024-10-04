@@ -1,0 +1,10 @@
+C:\Users\miche\Documents\Visual Studio 2022\Projects\Calculadoras_Areas_V1\bin\Debug\Calculadoras_Areas_V1.exe.config
+C:\Users\miche\Documents\Visual Studio 2022\Projects\Calculadoras_Areas_V1\bin\Debug\Calculadoras_Areas_V1.exe
+C:\Users\miche\Documents\Visual Studio 2022\Projects\Calculadoras_Areas_V1\bin\Debug\Calculadoras_Areas_V1.pdb
+C:\Users\miche\Documents\Visual Studio 2022\Projects\Calculadoras_Areas_V1\obj\Debug\Calculadoras_Areas_V1.csproj.AssemblyReference.cache
+C:\Users\miche\Documents\Visual Studio 2022\Projects\Calculadoras_Areas_V1\obj\Debug\Calculadoras_Areas_V1.Form1.resources
+C:\Users\miche\Documents\Visual Studio 2022\Projects\Calculadoras_Areas_V1\obj\Debug\Calculadoras_Areas_V1.Properties.Resources.resources
+C:\Users\miche\Documents\Visual Studio 2022\Projects\Calculadoras_Areas_V1\obj\Debug\Calculadoras_Areas_V1.csproj.GenerateResource.cache
+C:\Users\miche\Documents\Visual Studio 2022\Projects\Calculadoras_Areas_V1\obj\Debug\Calculadoras_Areas_V1.csproj.CoreCompileInputs.cache
+C:\Users\miche\Documents\Visual Studio 2022\Projects\Calculadoras_Areas_V1\obj\Debug\Calculadoras_Areas_V1.exe
+C:\Users\miche\Documents\Visual Studio 2022\Projects\Calculadoras_Areas_V1\obj\Debug\Calculadoras_Areas_V1.pdb
